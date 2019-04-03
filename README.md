@@ -7,13 +7,13 @@ PHP Library for Networking Tools (IPv4 and IPv6) Use for Laravel 5
 #### Via Composer
 
 ``` bash
-$ composer require sentrasoft/netutils
+$ composer require sentrasoft/laravel-netutils
 ```
 
 #### Via edit `composer.json`
 
 	"require": {
-		"sentrasoft/netutils": "dev-master"
+		"sentrasoft/laravel-netutils": "dev-master"
 	}
 
 Next, update Composer from the Terminal:
