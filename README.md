@@ -1,5 +1,12 @@
 # Network Utilities for Laravel
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NU3XK7VXYTYKY)
+[![Latest Stable Version](https://poser.pugx.org/sentrasoft/laravel-cas/v/stable)](https://packagist.org/packages/sentrasoft/laravel-cas)
+[![Total Downloads](https://poser.pugx.org/sentrasoft/laravel-cas/downloads)](https://packagist.org/packages/sentrasoft/laravel-cas)
+[![Monthly Downloads](https://poser.pugx.org/sentrasoft/laravel-cas/d/monthly)](https://packagist.org/packages/sentrasoft/laravel-cas)
+[![Latest Unstable Version](https://poser.pugx.org/sentrasoft/laravel-cas/v/unstable)](https://packagist.org/packages/sentrasoft/laravel-cas)
+[![License](https://poser.pugx.org/sentrasoft/laravel-cas/license)](https://packagist.org/packages/sentrasoft/laravel-cas)
+
 PHP Library for Networking Tools (IPv4 and IPv6) Use for Laravel 5
 
 ## Install
@@ -81,6 +88,12 @@ $mac = $network::network()->mac;
 $wakeOnLan = $network::WakeOnLan('74-27-ea-5e-74-59','10.3.30.255')->WakeUp();
 
 ```
+
+## Support Us
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NU3XK7VXYTYKY)
+
+Help us to keep making awesome stuff. You don't have to be a developer to support our open source work. If you want to receive personal support, or just feel all warm and fuzzy inside from helping open source development, donations are very welcome. Thank you.
+
 
 ## License
 
